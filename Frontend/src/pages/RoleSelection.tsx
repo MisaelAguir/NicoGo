@@ -4,7 +4,7 @@ export function RoleSelection({ navigate }: { navigate: (page: Page) => void }) 
   return (
     <section className="page">
       <h2>Tipo de usuario</h2>
-      <p>Selecciona como deseas registrarte en NicaGo AI.</p>
+      <p>Selecciona como deseas registrarte en NicoGo AI.</p>
       <article className="role-card tourist" onClick={() => navigate('tourist-register')}>
         <div>
           <h3>Soy turista</h3>

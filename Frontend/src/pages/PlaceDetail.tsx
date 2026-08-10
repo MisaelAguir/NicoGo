@@ -10,7 +10,7 @@ export function PlaceDetail({ navigate }: { navigate: (page: Page) => void }) {
       <img className="detail-image" src={place.image} alt={place.name} />
       <h2>{place.name}</h2>
       <p>{place.department} · {place.category}</p>
-      <div className="score-panel"><strong>{place.score}%</strong><span>recomendado por NicaGo AI</span></div>
+      <div className="score-panel"><strong>{place.score}%</strong><span>recomendado por NicoGo AI</span></div>
       <div className="tabs"><button>Informacion</button><button>Servicios</button><button>Resenas</button></div>
       <p className="body-text">Hermosa laguna de origen volcanico con miradores, restaurantes, actividades familiares y opciones para relajarse durante el fin de semana.</p>
       <div className="info-list">

@@ -1,6 +1,6 @@
-# NicaGo AI - Frontend Movil
+# NicoGo AI - Frontend Movil
 
-Proyecto React + TypeScript + Vite + Capacitor para el prototipo movil de NicaGo AI.
+Proyecto React + TypeScript + Vite + Capacitor para el prototipo movil de NicoGo AI.
 
 ## Requisitos
 
